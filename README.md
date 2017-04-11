@@ -7,7 +7,7 @@
 ## Main
 ### 注册、登录和权限  
 
-[原文地址](http://www.cnblogs.com/keepfool/p/5665953.html)
+[原文地址](http://www.cnblogs.com/keepfool/p/5665953.html)  
 [理解OAuth 2.0](http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html)
 [sessionStorage]
 - [3分钟学会sessionStorage用法](http://blog.csdn.net/oaa608868/article/details/53539954)
