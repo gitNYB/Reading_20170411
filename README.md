@@ -13,3 +13,4 @@
 - [HTML5 LocalStorage本地存储和sessionStorage使用](http://blog.csdn.net/qxs965266509/article/details/10012821)
 > 项目资料
 - [node-oauth2-server]https://www.npmjs.com/package/node-oauth2-server
+- [node-oauth](https://github.com/ciaranj/node-oauth)
